@@ -2,4 +2,4 @@ Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
 
-My name is Andrew Yu, I am currently a junior majoring in Cognitive Science with a concentration in computation. Fun fact is I swapped from a pre-vet track to a computer science track. 
+My name is Andrew Yu, I am currently a senior majoring in Cognitive Science with a concentration in computation. Fun fact is I swapped from a pre-vet track to a computer science track.
